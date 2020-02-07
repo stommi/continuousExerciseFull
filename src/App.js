@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import logo from './500px-Steering_wheel_ship.png';
+import logo from './graduationHat.png';
 import './App.css';
 import Lomake from "./Lomake";
 import Lomaketiedot from "./Lomaketiedot";
@@ -13,10 +13,11 @@ class App extends Component {
         return (
             <div className="App">
 
+                <br/><br/>
+                <img src={logo} className="App-logo" alt="logo" />
                 <h1>Oppimispäiväkirja</h1>
                 <Lomake viittaus={this.yhdistaja}/>
                 <Lomaketiedot tiedot={this.state}/>
-                <img src={logo} className="App-logo" alt="logo" />
 
             </div>
         );
