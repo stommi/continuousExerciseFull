@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 
 class Lomaketiedot extends Component {
     render() {
-        // this.props.tiedot {nimi, epost}
         return (
             <div>
                 <h3>Lomaketiedot</h3>
