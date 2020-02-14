@@ -3,6 +3,7 @@ import logo from './graduationHat.png';
 import './App.css';
 import Lomake from "./Lomake";
 import Lomaketiedot from "./Lomaketiedot";
+import TopicBox from "./TopicBox";
 
 class App extends Component {
     state = {
@@ -41,6 +42,8 @@ class App extends Component {
                 }}/>
 
                 {this.state.naytaLomakeTiedot && <Lomaketiedot tiedot={this.state}/>}
+
+                {/*<TopicBox/>*/}
 
             </div>
 
