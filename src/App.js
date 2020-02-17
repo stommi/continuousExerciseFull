@@ -40,6 +40,7 @@ class App extends Component {
                 <input type="button" defaultValue="Tulosta aiheet" onClick={() => {
                     this.setState({naytaLomakeTiedot: true});
                 }}/>
+                <br/>
 
                 {this.state.naytaLomakeTiedot && <Lomaketiedot tiedot={this.state}/>}
 

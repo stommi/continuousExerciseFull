@@ -3,16 +3,24 @@ import React, {Component} from 'react';
 class Lomaketiedot extends Component {
     render() {
         return (
-            <div>
-                <h3>Lomaketiedot</h3>
-                <p>id: {this.props.tiedot.id}</p>
-                <p>title: {this.props.tiedot.title}</p>
-                <p>description: {this.props.tiedot.description}</p>
-                <p>additionalSource: {this.props.tiedot.additionalSource}</p>
-                <p>complete: {this.props.tiedot.complete}</p>
-                <p>creationDate: {this.props.tiedot.creationDate}</p>
-                <p>completionDate: {this.props.tiedot.completionDate}</p>
-            </div>
+            <table>
+                <th>id</th>
+                <th>Otsikko</th>
+                <th>Kuvaus</th>
+                <th>Lähde</th>
+                <th>Tila</th>
+                <th>Luontipäivä</th>
+                <th>Valmistumispäivä</th>
+                <tbody>
+                <td>{this.props.tiedot.id}</td>
+                <td>{this.props.tiedot.title}</td>
+                <td>{this.props.tiedot.description}</td>
+                <td>{this.props.tiedot.additionalSource}</td>
+                <td>{this.props.tiedot.complete}</td>
+                <td>{this.props.tiedot.creationDate}</td>
+                <td>{this.props.tiedot.completionDate}</td>
+                </tbody>
+            </table>
         );
     }
 }
