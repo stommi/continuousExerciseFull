@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6723a57e-94f0-411c-a4b1-902e0e53e530" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopicBox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopicBox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopicList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopicList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../viikko5/opevastauksetJDBCHarjoitus/JDBCHarjoitus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,6 +87,7 @@
       <updated>1581078375340</updated>
       <workItem from="1581078378359" duration="9460000" />
       <workItem from="1581663871384" duration="5412000" />
+      <workItem from="1581924541714" duration="3282000" />
     </task>
     <servers />
   </component>
@@ -95,26 +99,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581664010763" />
-    <state width="738" height="210" key="GridCell.Tab.0.bottom" timestamp="1581674216172">
+    <state width="738" height="210" key="GridCell.Tab.0.bottom" timestamp="1581959413322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581674216172" />
-    <state width="738" height="210" key="GridCell.Tab.0.center" timestamp="1581674216171">
+    <state width="738" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581959413322" />
+    <state width="738" height="210" key="GridCell.Tab.0.center" timestamp="1581959413321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581674216171" />
-    <state width="738" height="210" key="GridCell.Tab.0.left" timestamp="1581674216171">
+    <state width="738" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581959413321" />
+    <state width="738" height="210" key="GridCell.Tab.0.left" timestamp="1581959413320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581674216171" />
-    <state width="738" height="210" key="GridCell.Tab.0.right" timestamp="1581674216171">
+    <state width="738" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581959413320" />
+    <state width="738" height="210" key="GridCell.Tab.0.right" timestamp="1581959413322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581674216171" />
+    <state width="738" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581959413322" />
     <state x="249" y="93" key="new project wizard" timestamp="1581406762830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="93" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581406762830" />
+    <state x="809" y="190" key="run.anything.popup" timestamp="1581960131130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581960131130" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581082836970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

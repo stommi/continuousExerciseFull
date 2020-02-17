@@ -43,7 +43,7 @@ class App extends Component {
 
                 {this.state.naytaLomakeTiedot && <Lomaketiedot tiedot={this.state}/>}
 
-                {/*<TopicBox/>*/}
+                <TopicBox/>
 
             </div>
 
